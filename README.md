@@ -1,7 +1,7 @@
 # 加入我们 | Join Cherovin Entertainment Technology
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/219530109?s=200&v=4]" alt="Cherovin Entertainment Technology Logo" width="150"/>
+  <img src="[https://github.com/cherovin/careers/blob/main/CherovinTech.jpg]" alt="Cherovin Entertainment Technology Logo" width="150"/>
 </p>
 
 <h1 align="center">夕鳥娛樂科技 (Cherovin Entertainment Technology Ltd.)</h1>
